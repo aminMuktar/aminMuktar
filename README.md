@@ -10,9 +10,9 @@ Hi, I am Mohammed. I am a Senior Python Backend Engineer. I love creating API se
 - [x] Deploy them on the cloud.
 
 ## My Programming Stacks
-* `Python`, `Django`
+* `Python`, `Django`, `Node js`
 * `MYSQL`, `PostgreSQL`, `MongoDB`
-* `HTML5`, `CSS3`, ``, `JavaScript`, `Tailwind`
+* `HTML5`, `CSS3`, `JavaScript`, `Tailwindcss`
 * `TypeScript`, `Next.js`
 * `Docker`, `Github Actions`, `Gitlab`, `Ansible` 
 * `Digital Ocean, AWS`
