@@ -28,11 +28,3 @@ So don't be a stranger, contact me via:
 
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminMuktar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="amin" /></p>
-
-<br>
-
-
